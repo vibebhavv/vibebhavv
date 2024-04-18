@@ -3,7 +3,9 @@
 </h1>
 
 🗨️**About Me**: Hi, I'm Vaibhav A Btech CSE student from India. I'm learning Python, C++, rust, Data Science,etc. I'm ready for any challenge or any project just ask and get it done. Ready for collaboration.
+
 👨🏻‍🏭**Working on**: Working on a project can't tell its Classified...🤫
+
 🌱**Learning**: `Python`, `Rust`, `C++`, `Flutter`, `Linux`, `Game Development`
 
 🔗**Connect with me**: [Linkedin](https://www.linkedin.com/in/vaibhav-pathak-9202652b7?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app), [Instagram](https://www.instagram.com/_vaibhavv._.11)
