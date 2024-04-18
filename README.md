@@ -2,7 +2,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=2000&pause=1000&color=B679F7&random=false&lines=Hi%2C+it%27s+Vaibhav;Vaibhav%3A+Making+awesome+projects+;Vaibhav%3A+Remember+first+rule+of+fight+club;Vaibhav%3A+Until+we+meet+again" alt="Typing SVG" /></a>
 </h1>
 
-🗨️**About Me**: Hi, I'm Vaibhav A Btech CSE student from India. I'm learning Python, C++, rust, Data Science,etc. I'm ready for any challenge or any project just ask and get it done. Ready for collaboration.
+🗨️**About Me**: Hi, I'm Vaibhav A Btech CSE student from India. I'm learning Python, C++, rust, Data Science, etc. I'm ready for any challenge or any project just ask and get it done. Ready for collaboration.
 
 👨🏻‍🏭**Working on**: Working on a project can't tell its Classified...🤫
 
