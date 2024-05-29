@@ -8,7 +8,7 @@
 
 🌱**Learning**: `Python`, `Rust`, `C++`, `Flutter`, `Linux`, `Game Development`
 
-🔗**Connect with me**: [Linkedin](www.linkedin.com/in/vaibhav-pathak-9202652b7), [Instagram](https://www.instagram.com/_vaibhavv._.11)
+🔗**Connect with me**: [Linkedin](https://www.linkedin.com/in/vaibhav-pathak-9202652b7), [Instagram](https://www.instagram.com/_vaibhavv._.11)
 
 </br>
 <h2>👨‍💻 LEARNING AND DEVELOPMENT 👨‍💻</h2>
