@@ -11,13 +11,13 @@
 *Visit my site [here](https://youtube.com).*
 
 <p>
-  <a href="https://www.linkedin.com/in/vaibhav-pathak-9202652b7" target="_blank" style="margin-right: 10px;">
+  <a href="https://www.linkedin.com/in/vaibhav-pathak-9202652b7" target="_blank" style="margin-right: 10px; text-decoration: none;">
     <img alt="Connect" src="https://img.shields.io/badge/Connect-0A66C2?style=flat&logo=linkedin&logoColor=ffffff">
   </a>
-  <a href="https://twitter.com/" target="_blank" style="margin-right: 100px;">
+  <a href="https://twitter.com/" target="_blank" style="margin-right: 100px; text-decoration: none;">
     <img alt="Follow" src="https://img.shields.io/badge/Follow-ffffff?style=flat&logo=X&logoColor=black">
   </a>
-  <a href="https://instagram.com/_vaibhav._.11" target="_blank">
+  <a href="https://instagram.com/_vaibhav._.11" target="_blank" style="text-decoration: none;">
     <img alt="Follow" src="https://img.shields.io/badge/Follow-833AB4?style=flat&logo=instagram&logoColor=ffffff">
   </a>
 </p>
