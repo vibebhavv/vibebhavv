@@ -6,20 +6,18 @@
 
 *Currently studying cybersecurity in a B.Tech program at Bennett University.*
 
-*You can know [more about me](https://youtube.com) here.*
+*You can [know More about me](https://youtube.com).*
+
+*Visit my site [here](https://youtube.com) here.*
 
 <p>
   <a href="https://www.linkedin.com/in/vaibhav-pathak-9202652b7" target="_blank">
-    <img alt="Static Badge" src="https://img.shields.io/badge/Connect-0A66C2?style=flat&logo=linkedin&logoColor=ffffff">
+    <img alt="Connect" src="https://img.shields.io/badge/Connect-0A66C2?style=flat&logo=linkedin&logoColor=ffffff">
   </a>
-</p>
-<p>
   <a href="https://twitter.com/" target="_blank">
-    <img alt="Static Badge" src="https://img.shields.io/badge/Follow-ffffff?style=flat&logo=X&logoColor=black">
+    <img alt="Follow" src="https://img.shields.io/badge/Follow-ffffff?style=flat&logo=X&logoColor=black">
   </a>
-</p>
-<p>
   <a href="https://instagram.com/_vaibhav._.11" target="_blank">
-    <img alt="Static Badge" src="https://img.shields.io/badge/Follow-833AB4?style=flat&logo=instagram&logoColor=ffffff">
+    <img alt="Follow" src="https://img.shields.io/badge/Follow-833AB4?style=flat&logo=instagram&logoColor=ffffff">
   </a>
 </p>
