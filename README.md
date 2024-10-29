@@ -8,7 +8,7 @@
 
 *You can [know More about me](https://youtube.com).*
 
-*Visit my site [here](https://youtube.com) here.*
+*Visit my site [here](https://youtube.com).*
 
 <p>
   <a href="https://www.linkedin.com/in/vaibhav-pathak-9202652b7" target="_blank">
