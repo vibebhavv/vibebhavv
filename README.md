@@ -1,23 +1,23 @@
 <h1>
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Roboto&size=20&duration=3000&pause=1000&color=F7F7F7&width=435&lines=Hi%2C+It's+Vaibhav" alt="Typing SVG">
+    <img src="https://readme-typing-svg.demolab.com?font=Roboto&size=20&duration=3000&pause=1000&color=F7F7F7&width=435&lines=Hi%2C+I'm+Vaibhav" alt="Typing SVG">
   </a>
 </h1>
 
-*Currently studying cybersecurity in a B.Tech program at Bennett University. I like malware development and red teaming.*
+### 👨‍🎓 Education
+Currently pursuing a B.Tech in Cybersecurity at Bennett University, Noida, with a keen interest in **malware development** and **red teaming**.
 
-*You can [know more about me](https://youtube.com).*
+### 💼 Skills & Interests
+- Proficient in cybersecurity practices, ethical hacking, and penetration testing.
+- Passionate about developing custom security tools and exploring new skills in the field.
+- Enthusiastic about staying updated with the latest research and trends in cybersecurity.
 
-*Visit my site [here](https://youtube.com).*
+### 🌐 Connect with Me
+- **LinkedIn:** [Connect](https://www.linkedin.com/in/vaibhav-pathak-9202652b7)
+- **Twitter:** [Follow](https://twitter.com/)
+- **Instagram:** [Follow](https://instagram.com/_vaibhav._.11)
 
-<p>
-  <a href="https://www.linkedin.com/in/vaibhav-pathak-9202652b7" target="_blank" style="margin-right: 10px; text-decoration: none;">
-    <img alt="Connect" src="https://img.shields.io/badge/Connect-0A66C2?style=flat&logo=linkedin&logoColor=ffffff">
-  </a>
-  <a href="https://twitter.com/" target="_blank" style="margin-right: 100px; text-decoration: none;">
-    <img alt="Follow" src="https://img.shields.io/badge/Follow-ffffff?style=flat&logo=X&logoColor=black">
-  </a>
-  <a href="https://instagram.com/_vaibhav._.11" target="_blank" style="text-decoration: none;">
-    <img alt="Follow" src="https://img.shields.io/badge/Follow-833AB4?style=flat&logo=instagram&logoColor=ffffff">
-  </a>
-</p>
+### 📖 Learn More
+You can [know more about me](https://youtube.com) or visit my personal site [here](https://youtube.com).
+
+![GitHub followers](https://img.shields.io/github/followers/yourusername?label=Follow&style=social)
