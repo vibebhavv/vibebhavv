@@ -1,12 +1,12 @@
 <h1>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&size=17&duration=2000&pause=1000&color=ffffff&random=false&lines=Hi%2C+it%27s+Vaibhav;Vaibhav%3A+Making+awesome+projects+;Vaibhav%3A+Remember+first+rule+of+fight+club;Vaibhav%3A+Until+we+meet+again" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Roboto&size=24&duration=3000&pause=1000&color=F7F7F7&width=435&lines=Hi%2C+I'm+Aryan+Sharma" alt="Typing SVG">
+  </a>
 </h1>
 
-🗨️**About Me**: Hi, I'm Vaibhav A Btech CSE student from Noida India. I'm learning Python, C++, rust, Cyber Security, etc. I'm ready for any challenge or any project just ask and get it done. Ready for collaboration.
+*Currently studying cybersecurity in a B.Tech program at Bennett University.*
 
-🌱**Learning**: `Python`, `Rust`, `C++`, `Linux`
-
-<h2>*Contact*</h2>
+<h2>Contact Me</h2>
 <p>
   <a href="https://www.linkedin.com/in/vaibhav-pathak-9202652b7" target="_blank">
     <img alt="Static Badge" src="https://img.shields.io/badge/Follow-0A66C2?style=for-the-badge&logo=linkedin&logoColor=ffffff">
