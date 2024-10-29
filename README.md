@@ -1,8 +1,4 @@
-<h1>
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Roboto&size=20&duration=3000&pause=1000&color=F7F7F7&width=435&lines=Hi%2C+I'm+Vaibhav" alt="Typing SVG">
-  </a>
-</h1>
+### Hi, I am Vaibhav 🤠 
 
 *Currently pursuing a B.Tech in Cybersecurity at Bennett University, Noida, with a keen interest in **malware development** and **red teaming**.*
 
