@@ -6,7 +6,7 @@
 
 🌱**Learning**: `Python`, `Rust`, `C++`, `Linux`
 
-🔗**Connect with me**: [Linkedin](https://www.linkedin.com/in/vaibhav-pathak-9202652b7),
+<h2>*Contact*</h2>
 <p>
   <a href="https://www.linkedin.com/in/vaibhav-pathak-9202652b7" target="_blank">
     <img alt="Static Badge" src="https://img.shields.io/badge/Follow-0A66C2?style=for-the-badge&logo=linkedin&logoColor=ffffff">
