@@ -6,7 +6,22 @@
 
 🌱**Learning**: `Python`, `Rust`, `C++`, `Linux`
 
-🔗**Connect with me**: [Linkedin](https://www.linkedin.com/in/vaibhav-pathak-9202652b7), [Instagram](https://www.instagram.com/_vaibhavv._.11)
+🔗**Connect with me**: [Linkedin](https://www.linkedin.com/in/vaibhav-pathak-9202652b7),
+<p>
+  <a href="https://www.linkedin.com/in/vaibhav-pathak-9202652b7" target="_blank">
+    <img alt="Static Badge" src="https://img.shields.io/badge/Follow-0A66C2?style=for-the-badge&logo=linkedin&logoColor=ffffff">
+  </a>
+</p>
+<p>
+  <a href="https://instagram.com/_vaibhav._.11" target="_blank">
+    <img alt="Static Badge" src="https://img.shields.io/badge/Follow-833AB4?style=for-the-badge&logo=instagram&logoColor=ffffff">
+  </a>
+</p>
+<p>
+  <a href="https://twitter.com/" target="_blank">
+    <img alt="Static Badge" src="https://img.shields.io/badge/Follow-d3d3d3?style=for-the-badge&logo=X&logoColor=black">
+  </a>
+</p>
 
 </br>
 <h2>👨‍💻 LEARNING AND DEVELOPMENT 👨‍💻</h2>
@@ -16,18 +31,3 @@
   </a>
 </p>
 </br>
-<h2>📈 STATS 📈</h2>
-<div>
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=G0dVai&show_icons=true&rank_icon=github&border_radius=10&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=G0dVai&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img width=400 src="https://github-readme-stats.vercel.app/api?username=G0dVai&show_icons=true" />
-</picture>
-<a href="https://git.io/streak-stats"><img width=425 src="https://streak-stats.demolab.com?user=G0dVai&theme=dark&border_radius=10" alt="GitHub Streak" /></a>
-</div>
