@@ -8,4 +8,4 @@
 
 [![Follow](https://img.shields.io/badge/Follow-ffffff?style=flat&logo=X&logoColor=black)](https://twitter.com/)
 
-[![Follow](https://img.shields.io/badge/Follow-833AB4?style=flat&logo=instagram&logoColor=ffffff)](https://instagram.com/_vaibhav._.11)
+[![Follow](https://img.shields.io/badge/Follow-833AB4?style=flat&logo=instagram&logoColor=ffffff)](https://instagram.com/_vaibhavv._.11)
