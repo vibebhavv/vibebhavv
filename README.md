@@ -25,5 +25,7 @@ A B.Tech Computer Science Engineering student specializing in Cyber Security fro
 - _Malware analysis using Cuckoo Sandbox_
 - [Toxic-Typer](https://github.com/vibebhavv/Toxic-Typer) - Typer for codetantra-sea and codetantra web
 
-## Stats
+  **_Connect with me_** - <a href="https://www.linkedin.com/in/vaibhav-pathak-9202652b7"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
+
+## 📈 Stats
 ![Vaibhav's GitHub stats](https://github-readme-stats.vercel.app/api?username=vibebhavv&show_icons=true&theme=dark)
