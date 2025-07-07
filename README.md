@@ -26,4 +26,4 @@ A B.Tech Computer Science Engineering student specializing in Cyber Security fro
 - [Toxic-Typer](https://github.com/vibebhavv/Toxic-Typer) - Typer for codetantra-sea and codetantra web
 
 ## Stats
-![Vaibhav's GitHub stats](https://github-readme-stats.vercel.app/api?username=vibebhavv&show_icons=true&theme=radical)
+![Vaibhav's GitHub stats](https://github-readme-stats.vercel.app/api?username=vibebhavv&show_icons=true&theme=dark)
