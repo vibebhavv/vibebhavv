@@ -24,3 +24,9 @@ A B.Tech Computer Science Engineering student specializing in Cyber Security fro
 - _Shunya - Soil Analyzer IOT project (Smart India Hackathod)_ 
 - _Malware analysis using Cuckoo Sandbox_
 - [Toxic-Typer](https://github.com/vibebhavv/Toxic-Typer) - Typer for codetantra-sea and codetantra web
+
+## Stats
+
+<div align="center">
+  [![Vaibhav's GitHub stats](https://github-readme-stats.vercel.app/api?username=vibebhavv)](https://github.com/anuraghazra/github-readme-stats)
+</div>
