@@ -3,7 +3,7 @@
 A B.Tech Computer Science Engineering student specializing in Cyber Security from _Bennett University_, passionate about solving problems and building projects around my hobbies.
 
 
-### 🛠 Skills
+## 🛠 Skills
 
 <div align="center">
   <img alt="Static Badge" src="https://img.shields.io/badge/C%2B%2B-663399?style=for-the-badge&logo=C%2B%2B&logoColor=white" />
@@ -15,7 +15,7 @@ A B.Tech Computer Science Engineering student specializing in Cyber Security fro
   <img alt="Static Badge" src="https://img.shields.io/badge/QRadar-41454A?style=for-the-badge&logo=Qradar&logoColor=white" />
 </div>
 
-### 📝 Projects 
+## 📝 Projects 
 
 - [Powerhell](https://github.com/vibebhavv/Powerhell) - A Powershell reverse shell obfuscator and av bypasser.
 - [Blacklotus](https://github.com/vibebhavv/BlackLotus) - Live API and token scraper using python.
