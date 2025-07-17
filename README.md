@@ -24,7 +24,7 @@ A B.Tech Computer Science Engineering student specializing in Cyber Security fro
 - [Chameleon-VoiceMod](https://github.com/vibebhavv/Chameleon-VoiceMod) - Software based Voice Changer using python.
 - [Pypass](https://github.com/vibebhavv/PyPass) - A python based CLI Password generator and password manager
 - _Shunya - Soil Analyzer IOT project (Smart India Hackathod)_ 
-- _Malware analysis using Cuckoo Sandbox_
+- _Malware Behavior Analysis & CVE Mapping Automation_
 - [Toxic-Typer](https://github.com/vibebhavv/Toxic-Typer) - Typer for codetantra-sea and codetantra web
 
 ## 🫱🏼‍🫲🏼 Connect
