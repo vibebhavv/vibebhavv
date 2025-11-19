@@ -20,7 +20,7 @@ A B.Tech Computer Science Engineering student specializing in Cyber Security fro
 *A comprehensive collection of projects I’ve developed for various hackathons and personal initiatives, reflecting my passion for problem solving, innovation, and my specialization. Each project demonstrates my ability to apply my skills to real world challenges, experiment with new ideas, and build practical solutions that push the boundaries of my technical expertise.*
 
 - [Powerhell](https://github.com/vibebhavv/Powerhell) - A Powershell reverse shell obfuscator and av bypasser.
-- [Blacklotus](https://github.com/vibebhavv/BlackLotus) - Live API and token scraper using python.
+- [Blacklotus](https://github.com/vibebhavv/BlackLotus) - Live API and token scraper using python (⚠️Discontinued).
 - [Chameleon-VoiceMod](https://github.com/vibebhavv/Chameleon-VoiceMod) - Software based Voice Changer using python.
 - [PyClipJacker](https://github.com/vibebhavv/PyClipJacker) - A python based Crypto clipper for educational pupose.
 - _Shunya - Soil Analyzer IOT project (Smart India Hackathod)_ 
