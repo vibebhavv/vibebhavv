@@ -21,11 +21,11 @@ A B.Tech Computer Science Engineering student specializing in Cyber Security fro
 
 - [Flesh](https://github.com/vibebhavv/Flesh) - Multiple Shell Handler.
 - [SpineX](https://github.com/vibebhavv/Spinex) - Web based Phishing Framework focusing on instagram.
+- [NetSpy](https://github.com/vibebhavv/NetSpy) - CLI based Network packet sniffer and analyzer
 - [Powerhell](https://github.com/vibebhavv/Powerhell) - A Powershell reverse shell obfuscator and av bypasser.
 - [PyClipJacker](https://github.com/vibebhavv/PyClipJacker) - A python based Crypto clipper for educational pupose.
 - _Shunya - Soil Analyzer IOT project (Smart India Hackathod)_ 
 - _Malware Behavior Analysis & CVE Mapping Automation_
-- [Toxic-Typer](https://github.com/vibebhavv/Toxic-Typer) - Typer for codetantra-sea and codetantra web
 
 ## 🫱🏼‍🫲🏼 Connect
 <a href="https://www.linkedin.com/in/vaibhavvpathak"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
