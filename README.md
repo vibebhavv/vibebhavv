@@ -1,6 +1,6 @@
 # Hey, I'm _Vaibhav_
 
-A B.Tech Computer Science Engineering student specializing in Cyber Security from _Bennett University_, passionate about solving problems and building projects around my hobbies. Read my blogs over [here](https://medium.com/@vaiibhav).
+A B.Tech Computer Science Engineering student specializing in Cyber Security from _Bennett University_, passionate about solving problems and building projects around my hobbies. Read my blogs over `[here](https://medium.com/@vaiibhav)`.
 
 
 ## 🛠 Skills
