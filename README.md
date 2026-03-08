@@ -1,6 +1,6 @@
 # Hey, I'm _Vaibhav_
 
-A B.Tech Computer Science Engineering student specializing in Cyber Security from _Bennett University_, passionate about solving problems and building projects around my hobbies.
+A B.Tech Computer Science Engineering student specializing in Cyber Security from _Bennett University_, passionate about solving problems and building projects around my hobbies. Read my blogs over [here](https://medium.com/@vaiibhav).
 
 
 ## 🛠 Skills
@@ -28,7 +28,4 @@ A B.Tech Computer Science Engineering student specializing in Cyber Security fro
 - _Malware Behavior Analysis & CVE Mapping Automation_
 
 ## 🫱🏼‍🫲🏼 Connect
-<a href="https://www.linkedin.com/in/vaibhavvpathak"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
-
-## 📈 Stats
-![Vaibhav's GitHub stats](https://github-readme-stats.vercel.app/api?username=vibebhavv&show_icons=true&theme=dark)
+<a href="https://www.linkedin.com/in/vaibhavvpathak"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
