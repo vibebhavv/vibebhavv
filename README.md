@@ -19,11 +19,11 @@ A B.Tech Computer Science Engineering student specializing in Cyber Security fro
 
 *A comprehensive collection of projects I’ve developed for various hackathons and personal initiatives, reflecting my passion for problem solving, innovation, and my specialization. Each project demonstrates my ability to apply my skills to real world challenges, experiment with new ideas, and build practical solutions that push the boundaries of my technical expertise.*
 
-- [Flesh](https://github.com/vibebhavv/Flesh) - Multiple Shell Handler.
-- [SpineX](https://github.com/vibebhavv/Spinex) - Web based Phishing Framework focusing on instagram.
-- [NetSpy](https://github.com/vibebhavv/NetSpy) - CLI based Network packet sniffer and analyzer
-- [Powerhell](https://github.com/vibebhavv/Powerhell) - A Powershell reverse shell obfuscator and av bypasser.
-- [PyClipJacker](https://github.com/vibebhavv/PyClipJacker) - A python based Crypto clipper for educational pupose.
+- [`Flesh`](https://github.com/vibebhavv/Flesh) - Multiple Shell Handler.
+- [`SpineX`](https://github.com/vibebhavv/Spinex) - Web based Phishing Framework focusing on instagram.
+- [`NetSpy`](https://github.com/vibebhavv/NetSpy) - CLI based Network packet sniffer and analyzer
+- [`Powerhell`](https://github.com/vibebhavv/Powerhell) - A Powershell reverse shell obfuscator and av bypasser.
+- [`PyClipJacker`](https://github.com/vibebhavv/PyClipJacker) - A python based Crypto clipper for educational pupose.
 - _Shunya - Soil Analyzer IOT project (Smart India Hackathod)_ 
 - _Malware Behavior Analysis & CVE Mapping Automation_
 
