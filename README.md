@@ -25,7 +25,7 @@ A B.Tech Computer Science Engineering student specializing in Cyber Security fro
 - [`Powerhell`](https://github.com/vibebhavv/Powerhell) - A Powershell reverse shell obfuscator and av bypasser.
 - [`PyClipJacker`](https://github.com/vibebhavv/PyClipJacker) - A python based Crypto clipper for educational pupose.
 - [`Chainlink`](https://github.com/vibebhavv/Chainlink) - Crypto wallet address analysis framework.
-- _Shunya - Soil Analyzer IOT project (Smart India Hackathod)_ 
+- _Shunya - Soil Analyzer IOT project (Smart India Hackathon)_ 
 - _Malware Behavior Analysis & CVE Mapping Automation_
 
 ## 🫱🏼‍🫲🏼 Connect
